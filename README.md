@@ -180,16 +180,16 @@ Identifiants créés(que vous allez utiliser)
     Admin:
                              Email: admin@admin.com
                              Password: password
-   Auteur:
-                             Email: auteur@auteur.com
+   auteur1
+                             Email: auteur@auteur1.com
                              Password: password
 
 Nota bene: L’utilisateur n’aura pas l’accès au panel d’administration, veuillez vous connecter en tant 
 ---
 qu'utilisateur et essayez d'accéder à la page http://localhost:8000/admin/users. Vous n’avez pas droit.
 
-   Utilisateur:
-                             Email: utilisateur@utilisateur.com
+   Utilisateur1:
+                             Email: utilisateur@utilisateur1.com
                              Password: password
 
 
